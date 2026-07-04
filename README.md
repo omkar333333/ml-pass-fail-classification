@@ -230,6 +230,6 @@ Through this project, the following machine learning concepts were implemented:
 
 Omkar Baban Mote
 
-Third Year Artificial Intelligence & Data Science Engineering Student
+4 Year Artificial Intelligence & Data Science Engineering Student
 
 Savitribai Phule Pune University (SPPU)
